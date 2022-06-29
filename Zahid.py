@@ -1,4 +1,4 @@
-#fucked by mking
+#fucked by Technical Zahid
 #paid tool free
 W = '\033[97;1m'
 R = '\033[91;1m'
